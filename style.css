@@ -8,12 +8,9 @@ body {
   padding-bottom: 32px;
 }
 
-p {
-  margin-bottom: 12px;
-}
-
 h1, h2, h3 {
   font-weight: 400;
+  margin-bottom: 5px;
 }
 
 h1 {
@@ -28,6 +25,11 @@ h2 {
 
 h3 {
   font-size: 20px;
+}
+
+p, ul {
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 #header {
