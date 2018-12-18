@@ -38,10 +38,12 @@ p, ul {
 }
 
 .main_section {
+  margin-top: 24px;
   margin-bottom: 24px;
 }
 
 .main_section_item {
+  margin-top: 16px;
   margin-bottom: 16px;
 }
 
