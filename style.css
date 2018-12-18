@@ -52,5 +52,8 @@ h3 {
 
 #footer {
   margin-top: 64px;
+}
+
+#footer.p {
   text-align: center;
 }
